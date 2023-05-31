@@ -1,0 +1,21 @@
+Flipcart-
+
+Co-related X path for image
+Grocery: //div[9]/a/div[1]/div/img
+Flights: //div[8]/a/div[1]/div/img
+Home :   //div[7]/a/div[1]/div/img
+Beauty:  //div[6]/a/div[1]/div/img
+Fashion: //div[5]/a/div[1]/div/img
+TV and appliance ://div[4]/a/div[1]/div/img
+Electronics: //div[3]/a/div[1]/div/img
+   Mobile:   //div[2]/a/div[1]/div/img
+
+Co-related X path for all text
+1.Grocery: //div[9]/a/div[2]
+2.Flights: //div[8]/a/div[2]
+3.Home :   //div[7]/a/div[2]
+4.Beauty:  //div[6]/a/div[2]
+5.Fashion: //div[5]/a/div[2]
+6.TV and appliance ://div[4]/a/div[2]
+7.Electronics: //div[3]/a/div[2]
+8. Mobile:   //div[2]/a/div[2]
